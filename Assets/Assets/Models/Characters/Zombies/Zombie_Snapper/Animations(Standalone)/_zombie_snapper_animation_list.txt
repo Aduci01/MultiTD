@@ -1,0 +1,23 @@
+Zombie Snapper Animation List
+
+frame 0030-0059: backpedal (loop)
+frame 0090-0124: bite
+frame 0169-0208: bite repeatedly (loop)
+frame 0250-0275: death
+frame 0280-0332: enraged
+frame 0340-0379: get hit from behind
+frame 0385-0429: get hit from front
+frame 0435-0469: get hit from left
+frame 0475-0509: get hit from right
+frame 0515-0557: headbut
+frame 0619-0678: idle (loop)
+frame 0740-0789: jump
+frame 0795-0869: roar
+frame 0898-0921: run (loop)
+frame 0969-0988: shuffle left (loop)
+frame 1034-1053: shuffle right (loop)
+frame 1075-1129: spawn
+frame 1164-1193: strafe left
+frame 1254-1283: strafe right
+frame 1315-1359: swipe
+frame 1394-1423: walk

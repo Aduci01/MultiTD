@@ -1,0 +1,1232 @@
+fileFormatVersion: 2
+guid: 707a49556c4624e09963f4184b84f306
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3278093092754607161
+    second: Ciradas_0
+  - first:
+      213: 3716262995606409542
+    second: Ciradas_1
+  - first:
+      213: 7351215728353380320
+    second: Ciradas_2
+  - first:
+      213: 3363259292076248213
+    second: Ciradas_3
+  - first:
+      213: 6574968752739236604
+    second: Ciradas_4
+  - first:
+      213: -3940390133362046418
+    second: Ciradas_5
+  - first:
+      213: 7646748981334878222
+    second: Ciradas_6
+  - first:
+      213: 3933992045548330264
+    second: Ciradas_7
+  - first:
+      213: -3497142040667629299
+    second: Ciradas_8
+  - first:
+      213: 5605166953908402446
+    second: Ciradas_9
+  - first:
+      213: 1218124646634610983
+    second: Ciradas_10
+  - first:
+      213: -394657223681304273
+    second: Ciradas_11
+  - first:
+      213: -6925291260877778615
+    second: Ciradas_12
+  - first:
+      213: -3040523709514719152
+    second: Ciradas_13
+  - first:
+      213: 167896508669673071
+    second: Ciradas_14
+  - first:
+      213: 4016317887671058879
+    second: Ciradas_15
+  - first:
+      213: -4620609710729249474
+    second: Ciradas_16
+  - first:
+      213: 65508801345874050
+    second: Ciradas_17
+  - first:
+      213: 8915360799471608929
+    second: Ciradas_18
+  - first:
+      213: 4461183137113482099
+    second: Ciradas_19
+  - first:
+      213: -6386648098590468459
+    second: Ciradas_20
+  - first:
+      213: -5307843512048503242
+    second: Ciradas_21
+  - first:
+      213: -4031562534903967086
+    second: Ciradas_22
+  - first:
+      213: -9047236637186752256
+    second: Ciradas_23
+  - first:
+      213: 4216141828242207643
+    second: Ciradas_24
+  - first:
+      213: 1905357360426854340
+    second: Ciradas_25
+  - first:
+      213: 7724609596449999642
+    second: Ciradas_26
+  - first:
+      213: 8351671044335151759
+    second: Ciradas_27
+  - first:
+      213: 7905317534787611571
+    second: Ciradas_28
+  - first:
+      213: -4054350088716258026
+    second: Ciradas_29
+  - first:
+      213: -9193885725986039758
+    second: Ciradas_30
+  - first:
+      213: -540048931667536496
+    second: Ciradas_31
+  - first:
+      213: -8848417768667384745
+    second: Ciradas_32
+  - first:
+      213: -3254429033578697092
+    second: Ciradas_33
+  - first:
+      213: -2775111291031293776
+    second: Ciradas_34
+  - first:
+      213: 8405202884249196178
+    second: Ciradas_35
+  - first:
+      213: 4216897893505419050
+    second: Ciradas_36
+  - first:
+      213: 6738385893819908778
+    second: Ciradas_37
+  - first:
+      213: -6417340176468547457
+    second: Ciradas_38
+  - first:
+      213: 1083872374708785775
+    second: Ciradas_39
+  - first:
+      213: -8461033796705409412
+    second: Ciradas_40
+  - first:
+      213: 5154643700043664700
+    second: Ciradas_41
+  - first:
+      213: -7489335403138445365
+    second: Ciradas_42
+  - first:
+      213: -2592222295598390995
+    second: Ciradas_43
+  - first:
+      213: 9122775527161936467
+    second: Ciradas_44
+  - first:
+      213: 599694762290736894
+    second: Ciradas_45
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ciradas_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 709
+        width: 363
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ccc4ebc402e7d20800000000000000
+      internalID: 3278093092754607161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_1
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 709
+        width: 404
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6419c014181d29330800000000000000
+      internalID: 3716262995606409542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 646
+        width: 364
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e784cba1c3c40660800000000000000
+      internalID: 7351215728353380320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_3
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 637
+        width: 395
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59c8cbfb182bcae20800000000000000
+      internalID: 3363259292076248213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_4
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 590
+        width: 352
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfab054be3bfe3b50800000000000000
+      internalID: 6574968752739236604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_5
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 577
+        width: 394
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a40800d0ce059c0800000000000000
+      internalID: -3940390133362046418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 557
+        width: 302
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08ab0f2fa5be1a60800000000000000
+      internalID: 7646748981334878222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 514
+        width: 150
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81dde181ce8589630800000000000000
+      internalID: 3933992045548330264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 512
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d09dbe8b7d7a77fc0800000000000000
+      internalID: -3497142040667629299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 501
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e09f77aa5ad89cd40800000000000000
+      internalID: 5605166953908402446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_10
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 512
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721edc689e5a7e010800000000000000
+      internalID: 1218124646634610983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_11
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 514
+        width: 150
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f291f669855e58af0800000000000000
+      internalID: -394657223681304273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_12
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 510
+        width: 406
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941534d3a4c64ef90800000000000000
+      internalID: -6925291260877778615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 433
+        width: 143
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050e83babc3edc5d0800000000000000
+      internalID: -3040523709514719152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_14
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 431
+        width: 70
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6eb84e2cfc745200800000000000000
+      internalID: 167896508669673071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_15
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 433
+        width: 143
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb14ea7e6d3dcb730800000000000000
+      internalID: 4016317887671058879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_16
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 420
+        width: 410
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d334af2fb40efb0800000000000000
+      internalID: -4620609710729249474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 375
+        width: 72
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288e1e168ebb8e000800000000000000
+      internalID: 65508801345874050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_18
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 375
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164a2f85969b9bb70800000000000000
+      internalID: 8915360799471608929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_19
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 362
+        width: 200
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373ac954d6e49ed30800000000000000
+      internalID: 4461183137113482099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_20
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 375
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596571a64611e57a0800000000000000
+      internalID: -6386648098590468459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_21
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 375
+        width: 72
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636bcfca270c656b0800000000000000
+      internalID: -5307843512048503242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_22
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 350
+        width: 421
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29296411c330d08c0800000000000000
+      internalID: -4031562534903967086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 307
+        width: 354
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00185997632c17280800000000000000
+      internalID: -9047236637186752256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_24
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 288
+        width: 421
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93fa0b97aeb28a30800000000000000
+      internalID: 4216141828242207643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_25
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 282
+        width: 354
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c72b6e9c60317a10800000000000000
+      internalID: 1905357360426854340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 219
+        width: 358
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1bc9f05083533b60800000000000000
+      internalID: 7724609596449999642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_27
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 210
+        width: 424
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a2386d09817e370800000000000000
+      internalID: 8351671044335151759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 156
+        width: 347
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bbaea9e96455bd60800000000000000
+      internalID: 7905317534787611571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_29
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 162
+        width: 105
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6157efe331e0cb7c0800000000000000
+      internalID: -4054350088716258026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_30
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 163
+        width: 106
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 238511db4a1c86080800000000000000
+      internalID: -9193885725986039758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_31
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 148
+        width: 109
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09590a2ab5c5188f0800000000000000
+      internalID: -540048931667536496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_32
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 148
+        width: 109
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 754735a9bea143580800000000000000
+      internalID: -8848417768667384745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_33
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 148
+        width: 181
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ee2d26902f5d2d0800000000000000
+      internalID: -3254429033578697092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_34
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 54
+        width: 358
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b077e5ebf2dc79d0800000000000000
+      internalID: -2775111291031293776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_35
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 106
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29613c49d7745a470800000000000000
+      internalID: 8405202884249196178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_36
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 94
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27cb74ca4e658a30800000000000000
+      internalID: 4216897893505419050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_37
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa283a8d44e838d50800000000000000
+      internalID: 6738385893819908778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_38
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 94
+        width: 178
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78efba2c1701f6a0800000000000000
+      internalID: -6417340176468547457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_39
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f625064ae20ba0f00800000000000000
+      internalID: 1083872374708785775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_40
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 94
+        width: 178
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76acc2279e549a80800000000000000
+      internalID: -8461033796705409412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_41
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 90
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3dcecc7229f88740800000000000000
+      internalID: 5154643700043664700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_42
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 94
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf0d2c8129801890800000000000000
+      internalID: -7489335403138445365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_43
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d21a20c6e83960cd0800000000000000
+      internalID: -2592222295598390995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 362
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35a3d16e10c9a9e70800000000000000
+      internalID: 9122775527161936467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ciradas_45
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 9
+        width: 427
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe6000853b825800800000000000000
+      internalID: 599694762290736894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
